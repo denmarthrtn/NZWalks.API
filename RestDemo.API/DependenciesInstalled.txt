@@ -1,0 +1,16 @@
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+
+AutoMapper
+
+//JWT
+Microsoft.AspNetCore.Authentication.JwtBearer
+Microsoft.IdentityModel.Tokens
+System.IdentityModel.Tokens.Jwt
+Microsoft.AspNetCore.Identity.EntityFrameworkCore
+
+//Serilog
+Serilog
+Serilog.AspNetCore
+Serilog.Sinks.Console
+Serilog.Sinks.File
