@@ -1,198 +1,198 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\",
+  "WorkspaceRootPath": "D:\\Developments\\NZWalks.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\restdemo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\restdemo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\logs\\nzwalks_log20240920.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\logs\\nzwalks_log20240920.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\dependenciesinstalled.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\dependenciesinstalled.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Migrations\\20240920075725_Adding Images Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestDemo.API\\Migrations\\20240920075725_Adding Images Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\migrations\\nzwalksauthdb\\20240920051024_creating auth database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\dependenciesinstalled.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\dependenciesinstalled.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\restdemo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\restdemo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\logs\\nzwalks_log20240920.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\logs\\nzwalks_log20240920.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\migrations\\nzwalksauthdb\\20240920051024_creating auth database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\migrations\\nzwalksauthdb\\20240920051024_creating auth database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\restdemo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\restdemo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\restdemo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\migrations\\20240919160827_seeding data for difficulties and region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\migrations\\20240919160827_seeding data for difficulties and region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\migrations\\20240919160827_seeding data for difficulties and region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\migrations\\20240912084348_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\migrations\\20240912084348_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\migrations\\20240912084348_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\restdemo.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\restdemo.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\restdemo.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|c:\\users\\jtan214\\dotnet development\\restdemo\\restdemo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|d:\\developments\\nzwalks.api\\restdemo.api\\migrations\\20240920075725_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3C7E0E-74F0-4ED3-A829-449329EB0B73}|RestDemo.API\\RestDemo.API.csproj|solutionrelative:restdemo.api\\migrations\\20240920075725_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -208,48 +208,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ExceptionHandlerMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
               "RelativeDocumentMoniker": "RestDemo.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
               "RelativeToolTip": "RestDemo.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAywCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T09:38:52.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ImagesController.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\ImagesController.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\ImagesController.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\ImagesController.cs",
-              "RelativeToolTip": "RestDemo.API\\Controllers\\ImagesController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T08:08:01.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IRegionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\IRegionRepository.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\IRegionRepository.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\IRegionRepository.cs",
-              "RelativeToolTip": "RestDemo.API\\Repositories\\IRegionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T06:50:57.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Program.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Program.cs",
               "RelativeDocumentMoniker": "RestDemo.API\\Program.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Program.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Program.cs",
               "RelativeToolTip": "RestDemo.API\\Program.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAAAIEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,76 +232,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WalksController.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\WalksController.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\WalksController.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\WalksController.cs",
-              "RelativeToolTip": "RestDemo.API\\Controllers\\WalksController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAADwvzQAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "RestDemo.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T16:17:28.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T08:49:17.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NzWalks_Log20240920.txt",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Logs\\NzWalks_Log20240920.txt",
-              "RelativeDocumentMoniker": "RestDemo.API\\Logs\\NzWalks_Log20240920.txt",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Logs\\NzWalks_Log20240920.txt",
-              "RelativeToolTip": "RestDemo.API\\Logs\\NzWalks_Log20240920.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-20T09:31:34.519Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "RestDemo.API.csproj",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\RestDemo.API.csproj",
+              "RelativeDocumentMoniker": "RestDemo.API\\RestDemo.API.csproj",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\RestDemo.API.csproj",
+              "RelativeToolTip": "RestDemo.API\\RestDemo.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T06:32:19.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImageUploadRequestDto.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:10:11.98Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RegionsController.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\RegionsController.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\RegionsController.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\RegionsController.cs",
-              "RelativeToolTip": "RestDemo.API\\Controllers\\RegionsController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAEEAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:49:17.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RestDemo.API.csproj",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\RestDemo.API.csproj",
-              "RelativeDocumentMoniker": "RestDemo.API\\RestDemo.API.csproj",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\RestDemo.API.csproj",
-              "RelativeToolTip": "RestDemo.API\\RestDemo.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-12T06:32:19.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ImageUploadRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\ImageUploadRequestDto.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\ImageUploadRequestDto.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\ImageUploadRequestDto.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\ImageUploadRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T08:10:11.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "DependenciesInstalled.txt",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\DependenciesInstalled.txt",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\DependenciesInstalled.txt",
               "RelativeDocumentMoniker": "RestDemo.API\\DependenciesInstalled.txt",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\DependenciesInstalled.txt",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\DependenciesInstalled.txt",
               "RelativeToolTip": "RestDemo.API\\DependenciesInstalled.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -336,102 +281,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IImageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\IImageRepository.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\IImageRepository.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\IImageRepository.cs",
-              "RelativeToolTip": "RestDemo.API\\Repositories\\IImageRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T08:23:07.069Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RestDemo.API\\appsettings.json",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\appsettings.json",
+              "RelativeToolTip": "RestDemo.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T06:36:47.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LocalImageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\LocalImageRepository.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\LocalImageRepository.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\LocalImageRepository.cs",
-              "RelativeToolTip": "RestDemo.API\\Repositories\\LocalImageRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T08:24:05.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "RestDemo.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAgwEwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:02:47.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20240920075725_Adding Images Table.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Migrations\\20240920075725_Adding Images Table.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Migrations\\20240920075725_Adding Images Table.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Migrations\\20240920075725_Adding Images Table.cs",
-              "RelativeToolTip": "RestDemo.API\\Migrations\\20240920075725_Adding Images Table.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T07:57:26.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Image.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\Domain\\Image.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\Domain\\Image.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\Domain\\Image.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\Domain\\Image.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T07:52:07.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "NZWalksAuthDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Data\\NZWalksAuthDbContext.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Data\\NZWalksAuthDbContext.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Data\\NZWalksAuthDbContext.cs",
-              "RelativeToolTip": "RestDemo.API\\Data\\NZWalksAuthDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCUAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T04:56:23.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RegisterRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\RegisterRequestDto.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\RegisterRequestDto.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\RegisterRequestDto.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\RegisterRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:04:33.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "NZWalksDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Data\\NZWalksDbContext.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Data\\NZWalksDbContext.cs",
               "RelativeDocumentMoniker": "RestDemo.API\\Data\\NZWalksDbContext.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Data\\NZWalksDbContext.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Data\\NZWalksDbContext.cs",
               "RelativeToolTip": "RestDemo.API\\Data\\NZWalksDbContext.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAcwBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,392 +307,483 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LoginRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\LoginRequestDto.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\LoginRequestDto.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\LoginRequestDto.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\LoginRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "NZWalksAuthDbContext.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Data\\NZWalksAuthDbContext.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeToolTip": "RestDemo.API\\Data\\NZWalksAuthDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:27:13.912Z",
+              "WhenOpened": "2024-09-20T04:56:23.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ITokenRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\ITokenRepository.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\ITokenRepository.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\ITokenRepository.cs",
-              "RelativeToolTip": "RestDemo.API\\Repositories\\ITokenRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "NzWalks_Log20240920.txt",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Logs\\NzWalks_Log20240920.txt",
+              "RelativeDocumentMoniker": "RestDemo.API\\Logs\\NzWalks_Log20240920.txt",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Logs\\NzWalks_Log20240920.txt",
+              "RelativeToolTip": "RestDemo.API\\Logs\\NzWalks_Log20240920.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-20T09:31:34.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\WalksController.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "RestDemo.API\\Controllers\\WalksController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:35:45.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T16:17:28.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TokenRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\TokenRepository.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\TokenRepository.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\TokenRepository.cs",
-              "RelativeToolTip": "RestDemo.API\\Repositories\\TokenRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwCIAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\IRegionRepository.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\IRegionRepository.cs",
+              "RelativeToolTip": "RestDemo.API\\Repositories\\IRegionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:36:56.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T06:50:57.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\LoginResponseDto.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\LoginResponseDto.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\LoginResponseDto.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\LoginResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\ImagesController.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "RestDemo.API\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:50:20.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T08:08:01.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\appsettings.json",
-              "RelativeDocumentMoniker": "RestDemo.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\appsettings.json",
-              "RelativeToolTip": "RestDemo.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-12T06:36:47.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "RestDemo.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABJAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\IImageRepository.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\IImageRepository.cs",
+              "RelativeToolTip": "RestDemo.API\\Repositories\\IImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T06:36:37.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T08:23:07.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20240920051024_Creating Auth Database.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Migrations\\NZWalksAuthDb\\20240920051024_Creating Auth Database.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Migrations\\NZWalksAuthDb\\20240920051024_Creating Auth Database.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Migrations\\NZWalksAuthDb\\20240920051024_Creating Auth Database.cs",
-              "RelativeToolTip": "RestDemo.API\\Migrations\\NZWalksAuthDb\\20240920051024_Creating Auth Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "LocalImageRepository.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\LocalImageRepository.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeToolTip": "RestDemo.API\\Repositories\\LocalImageRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T05:10:24.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T08:24:05.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "RestDemo.API\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RestDemo.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T06:53:18.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IWalkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\IWalkRepository.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\IWalkRepository.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\IWalkRepository.cs",
-              "RelativeToolTip": "RestDemo.API\\Repositories\\IWalkRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T16:28:34.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "RestDemo.API",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\RestDemo.API.csproj",
-              "RelativeDocumentMoniker": "RestDemo.API\\RestDemo.API.csproj",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\RestDemo.API.csproj",
-              "RelativeToolTip": "RestDemo.API\\RestDemo.API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T04:40:48.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "SQLRegionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\SQLRegionRepository.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\SQLRegionRepository.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\SQLRegionRepository.cs",
-              "RelativeToolTip": "RestDemo.API\\Repositories\\SQLRegionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T06:53:12.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SQLWalkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\SQLWalkRepository.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\SQLWalkRepository.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Repositories\\SQLWalkRepository.cs",
-              "RelativeToolTip": "RestDemo.API\\Repositories\\SQLWalkRepository.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T16:29:44.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AddWalkRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\AddWalkRequestDto.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\AddWalkRequestDto.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\AddWalkRequestDto.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\AddWalkRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T16:21:54.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ValidateModelAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "RelativeToolTip": "RestDemo.API\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T17:42:43.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "UpdateRegionRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T17:48:01.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "AddRegionRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\AddRegionRequestDto.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\AddRegionRequestDto.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\AddRegionRequestDto.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\AddRegionRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T11:04:04.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "UpdateWalkRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T17:06:01.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DifficultyDto.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\DifficultyDto.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\DifficultyDto.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\DifficultyDto.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\DifficultyDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T16:53:38.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "RegionDto.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\RegionDto.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\RegionDto.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\RegionDto.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\RegionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T10:44:12.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Mappings\\AutoMapperProfiles.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "RestDemo.API\\Mappings\\AutoMapperProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T15:28:50.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "WalkDto.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\WalkDto.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\WalkDto.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\DTO\\WalkDto.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\WalkDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T16:34:44.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Walk.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\Domain\\Walk.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\Domain\\Walk.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\Domain\\Walk.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\Domain\\Walk.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:16:13.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Difficulty.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\Domain\\Difficulty.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\Domain\\Difficulty.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\Domain\\Difficulty.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\Domain\\Difficulty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:12:20.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "20240919160827_Seeding data for Difficulties and Region.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Migrations\\20240919160827_Seeding data for Difficulties and Region.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Migrations\\20240919160827_Seeding data for Difficulties and Region.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Migrations\\20240919160827_Seeding data for Difficulties and Region.cs",
-              "RelativeToolTip": "RestDemo.API\\Migrations\\20240919160827_Seeding data for Difficulties and Region.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T16:08:27.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "20240912084348_Initial Migration.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Migrations\\20240912084348_Initial Migration.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Migrations\\20240912084348_Initial Migration.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Migrations\\20240912084348_Initial Migration.cs",
-              "RelativeToolTip": "RestDemo.API\\Migrations\\20240912084348_Initial Migration.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAIBZwBUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:43:48.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Region.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\Domain\\Region.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\Models\\Domain\\Region.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Models\\Domain\\Region.cs",
-              "RelativeToolTip": "RestDemo.API\\Models\\Domain\\Region.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:14:19.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "RestDemo.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\appsettings.Development.json",
-              "RelativeToolTip": "RestDemo.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-12T06:36:54.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "RestDemo.API.http",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\RestDemo.API.http",
-              "RelativeDocumentMoniker": "RestDemo.API\\RestDemo.API.http",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\RestDemo.API.http",
-              "RelativeToolTip": "RestDemo.API\\RestDemo.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-12T06:37:06.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "RestDemo.API\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\WeatherForecast.cs",
-              "RelativeToolTip": "RestDemo.API\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T06:37:14.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T06:02:47.343Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 47,
+              "Title": "20240920075725_Adding Images Table.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Migrations\\20240920075725_Adding Images Table.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Migrations\\20240920075725_Adding Images Table.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Migrations\\20240920075725_Adding Images Table.cs",
+              "RelativeToolTip": "RestDemo.API\\Migrations\\20240920075725_Adding Images Table.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:57:26.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\Domain\\Image.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\Domain\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:52:07.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:04:33.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:27:13.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\ITokenRepository.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\ITokenRepository.cs",
+              "RelativeToolTip": "RestDemo.API\\Repositories\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:35:45.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\TokenRepository.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "RestDemo.API\\Repositories\\TokenRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:36:56.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\LoginResponseDto.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:50:20.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RestDemo.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:36:37.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240920051024_Creating Auth Database.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Migrations\\NZWalksAuthDb\\20240920051024_Creating Auth Database.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Migrations\\NZWalksAuthDb\\20240920051024_Creating Auth Database.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Migrations\\NZWalksAuthDb\\20240920051024_Creating Auth Database.cs",
+              "RelativeToolTip": "RestDemo.API\\Migrations\\NZWalksAuthDb\\20240920051024_Creating Auth Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:10:24.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "RestDemo.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:53:18.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "RestDemo.API\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:28:34.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RestDemo.API",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\RestDemo.API.csproj",
+              "RelativeDocumentMoniker": "RestDemo.API\\RestDemo.API.csproj",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\RestDemo.API.csproj",
+              "RelativeToolTip": "RestDemo.API\\RestDemo.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T04:40:48.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SQLRegionRepository.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\SQLRegionRepository.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeToolTip": "RestDemo.API\\Repositories\\SQLRegionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:53:12.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SQLWalkRepository.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Repositories\\SQLWalkRepository.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeToolTip": "RestDemo.API\\Repositories\\SQLWalkRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:29:44.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddWalkRequestDto.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:21:54.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "RestDemo.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:42:43.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateRegionRequestDto.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:48:01.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddRegionRequestDto.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:04:04.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateWalkRequestDto.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:06:01.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DifficultyDto.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\DifficultyDto.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\DifficultyDto.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\DifficultyDto.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\DifficultyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:53:38.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegionDto.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\RegionDto.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\RegionDto.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\RegionDto.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\RegionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:44:12.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "RestDemo.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:28:50.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WalkDto.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\WalkDto.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\DTO\\WalkDto.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\DTO\\WalkDto.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\DTO\\WalkDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:34:44.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\Domain\\Walk.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\Domain\\Walk.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\Domain\\Walk.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\Domain\\Walk.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:16:13.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\Domain\\Difficulty.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\Domain\\Difficulty.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\Domain\\Difficulty.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\Domain\\Difficulty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:12:20.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240919160827_Seeding data for Difficulties and Region.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Migrations\\20240919160827_Seeding data for Difficulties and Region.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Migrations\\20240919160827_Seeding data for Difficulties and Region.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Migrations\\20240919160827_Seeding data for Difficulties and Region.cs",
+              "RelativeToolTip": "RestDemo.API\\Migrations\\20240919160827_Seeding data for Difficulties and Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:08:27.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240912084348_Initial Migration.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Migrations\\20240912084348_Initial Migration.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Migrations\\20240912084348_Initial Migration.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Migrations\\20240912084348_Initial Migration.cs",
+              "RelativeToolTip": "RestDemo.API\\Migrations\\20240912084348_Initial Migration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBZwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:43:48.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\Models\\Domain\\Region.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Models\\Domain\\Region.cs",
+              "RelativeToolTip": "RestDemo.API\\Models\\Domain\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:14:19.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RestDemo.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\appsettings.Development.json",
+              "RelativeToolTip": "RestDemo.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T06:36:54.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RestDemo.API.http",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\RestDemo.API.http",
+              "RelativeDocumentMoniker": "RestDemo.API\\RestDemo.API.http",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\RestDemo.API.http",
+              "RelativeToolTip": "RestDemo.API\\RestDemo.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-12T06:37:06.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RestDemo.API\\WeatherForecast.cs",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\WeatherForecast.cs",
+              "RelativeToolTip": "RestDemo.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:37:14.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "RestDemo.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Developments\\NZWalks.API\\RestDemo.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "RestDemo.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-12T06:33:06.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T06:33:06.428Z"
             }
           ]
         }

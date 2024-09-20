@@ -27,6 +27,7 @@
   <ItemGroup>
     <Folder Include="Images\" />
     <Folder Include="Logs\" />
+    <Folder Include="ForSQLSeeding\" />
   </ItemGroup>
 
 </Project>

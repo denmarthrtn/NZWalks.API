@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\RestDemo.API.csproj": {}
+    "D:\\Developments\\NZWalks.API\\RestDemo.API\\RestDemo.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\RestDemo.API.csproj": {
+    "D:\\Developments\\NZWalks.API\\RestDemo.API\\RestDemo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\RestDemo.API.csproj",
+        "projectUniqueName": "D:\\Developments\\NZWalks.API\\RestDemo.API\\RestDemo.API.csproj",
         "projectName": "RestDemo.API",
-        "projectPath": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\RestDemo.API.csproj",
-        "packagesPath": "C:\\Users\\jtan214\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jtan214\\dotNet Development\\RestDemo\\RestDemo.API\\obj\\",
+        "projectPath": "D:\\Developments\\NZWalks.API\\RestDemo.API\\RestDemo.API.csproj",
+        "packagesPath": "C:\\Users\\denma\\.nuget\\packages\\",
+        "outputPath": "D:\\Developments\\NZWalks.API\\RestDemo.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jtan214\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\denma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

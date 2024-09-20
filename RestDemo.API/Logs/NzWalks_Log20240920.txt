@@ -36,3 +36,4 @@ System.Exception: This is a new exception
    at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
    at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
    at RestDemo.API.Middlewares.ExceptionHandlerMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\jtan214\dotNet Development\RestDemo\RestDemo.API\Middlewares\ExceptionHandlerMiddleware.cs:line 21
+2024-09-20 21:10:45.760 +08:00 [WRN] Failed to determine the https port for redirect.
